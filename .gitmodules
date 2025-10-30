@@ -1,0 +1,3 @@
+[submodule "Harmony.git"]
+	path = Harmony
+	url = git@github.com:Hime-Sound-Labs/Harmony.git
